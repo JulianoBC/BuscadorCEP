@@ -2,12 +2,9 @@
 #ReactJs
 #API
 
-<img src="https://github.com/JulianoBC/BuscadorCEP/blob/main/Screenshot_9.png"/>
-
-
-
 Buscador de Cep simples utilizando API da viacep.com.br em ReactJS
 
+<img src="https://github.com/JulianoBC/BuscadorCEP/blob/main/Screenshot_9.png"/>
 
 **# Getting Started with Create React App
 
