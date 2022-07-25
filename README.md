@@ -1,5 +1,9 @@
 # BuscadorCEP
-Buscador de Cep simples em ReactJS
+#ReactJs
+#API
+
+Buscador de Cep simples utilizando API da viacep.com.br em ReactJS
+
 
 **# Getting Started with Create React App
 
