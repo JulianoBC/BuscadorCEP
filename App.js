@@ -16,8 +16,8 @@ function App() {
     }
 
     try{
-    const responsee = await api.get(`${input}/json/`);
-      setCep(responsee.data)
+    const response = await api.get(`${input}/json/`);
+      setCep(response.data)
       setInput("");
 
     }catch{
@@ -32,13 +32,14 @@ function App() {
 
       <div className="containerInput">
         <input
-        type="text"
+        type="text" 
         placeholder="Digite seu cep..."
+        maxLength={8}
         value={input}
         onChange={(event) => setInput(event.target.value) } 
         />
 
-        <button className="buttonSearch" onClick={handleSearch}>
+        <button id = "butao" className="buttonSearch" onClick={handleSearch}>
           <FiSearch size={25} color="FFF"/>
         </button>
       </div>
