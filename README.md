@@ -2,6 +2,10 @@
 #ReactJs
 #API
 
+<img src="/BuscadorCEP/img.png"/>
+
+
+
 Buscador de Cep simples utilizando API da viacep.com.br em ReactJS
 
 
