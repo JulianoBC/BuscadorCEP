@@ -2,7 +2,7 @@
 #ReactJs
 #API
 
-<img src="/BuscadorCEP/img.png"/>
+<img src="[/BuscadorCEP/img.png](https://github.com/JulianoBC/BuscadorCEP/blob/main/BuscadorCEP/img.png)"/>
 
 
 
